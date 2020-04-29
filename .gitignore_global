@@ -1,0 +1,6 @@
+# Ignore DS_store files
+.DS_store
+*/*.DS_store
+
+# Ignore local environment variables
+.env

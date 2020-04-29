@@ -1,0 +1,16 @@
+[user]
+	name = Ryan Strickler
+	email = ryan@littlekingsoftware.com
+[color]
+	ui = true
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+	grep = auto
+[core]
+	editor = nano -r "72"
+        excludesfile = /Users/ryan/.gitignore_global
+[pager]
+        branch = false
+
